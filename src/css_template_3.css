@@ -1,0 +1,80 @@
+#header{
+    margin:0%;
+    overflow: hidden;
+}
+
+#content{
+    align-content: center;
+}
+
+#nav li{
+    list-style: none;
+    float:right;
+    padding-right:2%;
+}
+a:hover{
+    color:green;
+}
+#title {
+    float:left;
+}
+
+#Div1{
+    padding:1%;
+    background-color: aliceblue;
+}
+
+.button{
+    background-color: rgb(64, 58, 146)
+    border-radius: 2px;
+    border-color:black;
+    padding:12px
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.container{
+    display: block;
+    background-color: aliceblue;
+    margin:1%;
+    width: auto;
+    float:left;
+    text-align: center;
+    padding:1%;
+}
+
+#div8{
+    background-color: aliceblue;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-size: large
+
+}
+
+#div8 h2{
+    display:inline;
+}
+
+.whitespace{
+    background-color: white;
+    padding:1%;
+    text-align: center;
+}
+
+.space{
+    background-color: aliceblue;
+}
+#footer{
+    background-color: aliceblue;
+}
+
+#left-footer{
+    display: inline;
+    float:left;
+}
+#right-footer{
+    display: inline-block;
+    float:right;
+}
